@@ -10,5 +10,3 @@
     "path" : "images/eau_j.jpg"
   }
 ]
-
-myImages[1].path
