@@ -1,0 +1,14 @@
+var myImages = [
+  {
+    "nr" : "1",
+    "person" : "Etienne",
+    "path" : "images/eau_e.jpg"
+  },
+  {
+    "nr" : "2",
+    "person" : "jim",
+    "path" : "images/eau_j.jpg"
+  }
+]
+
+myImages[1].path
